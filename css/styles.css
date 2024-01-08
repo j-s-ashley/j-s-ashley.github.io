@@ -315,7 +315,7 @@ color:#F89F9F;
 }
 .header .navbar {
 	margin: 0;
-	background: transparent;
+	background: #000000;
 	border: 0;
 }
 .navbar-inverse .navbar-nav > li > a {
